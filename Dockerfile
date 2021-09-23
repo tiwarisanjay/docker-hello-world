@@ -1,2 +1,2 @@
-FROM alpine
+FROM busybox
 CMD ["echo", "Bhiya Ram!!"]
